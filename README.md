@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+I'm a front-end developer who leverages my software skills to improve product quality and user experience. My typical stack is React.js, Node.js, Express.js, Next.js, Redux Toolkit, and MySQL.
+
+On this site, you can check out my experience in video game development and design. If you'd like to dig deeper, you can visit my LinkedIn profile.
 <!--
 **LinaToBot/LinaToBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
