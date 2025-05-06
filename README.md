@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Paulina👋
 
 
 I'm a front-end developer who leverages my software skills to improve product quality and user experience. My typical stack is React.js, Node.js, Express.js, Next.js, Redux Toolkit, and MySQL.
